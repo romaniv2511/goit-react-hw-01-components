@@ -16,15 +16,16 @@ p, ul {
     background-color: #fff;
 
     text-align: center;
+    box-shadow: -4px 4px 4px 0px rgba(0, 0, 0, 0.2);
     
 
 }
-.avatar {
+.profile .avatar {
     margin-top: 80px;
     border-radius: 50%;
     width: 200px;
 }
-.name {
+.profile .name {
     font-size: 40px;
     font-weight: 700;
 }
@@ -40,9 +41,7 @@ p, ul {
     margin-top: 16px;
 
     background-color:aliceblue;
-
     list-style: none;
-    
 }
 .stats li {
     display: flex;
@@ -53,7 +52,7 @@ p, ul {
     padding: 20px 0;
 
     width: calc(100%/3);
-    background-color: rgb(233, 238, 244)
+    background-color: rgb(233, 238, 244);
 }
 
 .label {

@@ -27,7 +27,7 @@
 
     width: 100px;
 
-    visibility: hidden;
+    /* visibility: hidden; */
 }
 .stat-list .item:nth-child(1) {
     background-color: blue;
