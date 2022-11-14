@@ -38,3 +38,4 @@ Profile.propTypes = {
     avatar: PropTypes.string,
     stats: PropTypes.object,
 }
+
