@@ -1,7 +1,6 @@
 import "./transactionsHistory.css"
 
 export const TransactionHistory = ({ transactions }) => {
-    console.log(transactions);
     return (
         <table className="transactionTable">
             <thead>
