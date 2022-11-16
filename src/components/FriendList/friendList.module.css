@@ -1,4 +1,4 @@
-.friend-list {
+.friendList {
     display: flex;
     flex-direction: column;
     margin: 40px auto 0 auto;
@@ -10,7 +10,7 @@
 
     list-style: none;
 }
-.friend-list .item {
+.friendList .item {
     display: flex;
     align-items: center;
     gap: 20px;
@@ -21,7 +21,7 @@
     box-shadow: -4px 4px 8px 0px rgba(0, 0, 0, 0.4);
 }
 
-.friend-list .name {
+.friendList .name {
     font-size: 24px;
     font-weight: 700;
 }
@@ -30,9 +30,4 @@
     height: 24px;
 
     border-radius: 50%;
-
-    background-color: red;
-}
-.status.online {
-    background-color: green;
 }

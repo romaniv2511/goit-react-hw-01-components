@@ -20,6 +20,6 @@
     font-size: 18px;
 }
 
-.TransactionBodyRow:nth-child(2n) {
+.transactionBodyRow:nth-child(2n) {
     background-color: silver;
 }

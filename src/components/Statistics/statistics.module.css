@@ -17,11 +17,11 @@
 .title {
     text-transform: uppercase;
 }
-.stat-list {
+.statList {
     display: flex;
     margin-bottom: -1px;
 }
-.stat-list .item {
+.statList .item {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -29,18 +29,18 @@
 
     width: 100px;
 }
-.stat-list .item:nth-child(1) {
+.statList .item:nth-child(1) {
     background-color: blue;
 }
-.stat-list .item:nth-child(2) {
+.statList .item:nth-child(2) {
     background-color: fuchsia;
 }
-.stat-list .item:nth-child(3) {
+.statList .item:nth-child(3) {
     background-color: palevioletred;
 }
-.stat-list .item:nth-child(4) {
+.statList .item:nth-child(4) {
     background-color: greenyellow;
 }
-.stat-list .item:nth-child(5) {
+.statList .item:nth-child(5) {
     background-color: pink;
 }
